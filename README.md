@@ -4,6 +4,7 @@ It then simulates the behavior of these circuits based on user input commands or
 The Logic Simulator supports two modes of interaction: command-line input and GUI interaction. Users have the flexibility to use either the command-line interface by inputting commands or through user actions performed on the GUI interface (the GUI interface also has
 Japanese version).
 ## Start to Use
+Install [wxPython](https://wxpython.org/index.html) before launch the application.
 ### Using Command Window
 To initiate the program through the command line interface, input the following command in the command window: <br>
 ```logsim.py -c <file path>```<br>

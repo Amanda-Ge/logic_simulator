@@ -17,4 +17,4 @@ If want to access the Japanese version of GUI, the command to be input will be:<
 
 ## Description File
 To launch the program successfully, the file path provided by the user need to be a valid txt description file.
-The full version for the syntax rules can be found in the EBNF file.
+The full version for the syntax rules can be found in the files.pdf.
